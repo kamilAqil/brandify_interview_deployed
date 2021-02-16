@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/brandify_interview_deployed/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/brandify_interview_deployed/static/js/main.daa6a008.chunk.js",
-    "main.js.map": "/brandify_interview_deployed/static/js/main.daa6a008.chunk.js.map",
+    "main.js": "/brandify_interview_deployed/static/js/main.ae9226fb.chunk.js",
+    "main.js.map": "/brandify_interview_deployed/static/js/main.ae9226fb.chunk.js.map",
     "runtime-main.js": "/brandify_interview_deployed/static/js/runtime-main.27c116c2.js",
     "runtime-main.js.map": "/brandify_interview_deployed/static/js/runtime-main.27c116c2.js.map",
     "static/js/2.0260afad.chunk.js": "/brandify_interview_deployed/static/js/2.0260afad.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.27c116c2.js",
     "static/js/2.0260afad.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.daa6a008.chunk.js"
+    "static/js/main.ae9226fb.chunk.js"
   ]
 }
